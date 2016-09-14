@@ -1,3 +1,3 @@
 # TestProject
 
-adding some details about this project. 
+That first branch was lame.  This is a better branch change.  
